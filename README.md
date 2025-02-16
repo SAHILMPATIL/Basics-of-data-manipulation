@@ -1,1 +1,1 @@
-# basics-of-numpy
+# Basics of Data manipulation
